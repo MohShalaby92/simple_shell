@@ -1,7 +1,7 @@
 #include "header.h"
 
 /**
- * read_file - Reads commands from the argument File
+ * read_file - Reads commands from the File
  * @file: File containing commands
  * @argv: Arguments passed
  * Return: -1 or 0

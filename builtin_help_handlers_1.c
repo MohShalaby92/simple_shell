@@ -1,7 +1,7 @@
 #include "header.h"
 
 /**
- * help_all - Displays all possible builtin shellby commands
+ * help_all - Displays all possible builtin shell by commands
  */
 void help_all(void)
 {

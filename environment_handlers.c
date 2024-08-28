@@ -2,7 +2,7 @@
 
 /**
  * create_envi - Creates an array of Enviroment Variables
- * @envi: Array to store Enviroment Variables
+ * @envar: Array to store Enviroment Variables
  */
 
 void create_envi(char **envi)
